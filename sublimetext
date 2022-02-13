@@ -1,0 +1,11 @@
+//sublime-project
+{
+"folders":
+[
+{
+"path": ".",
+"folder_exclude_patterns": [".sublime-backup","tcpdf","node_modules"],
+"file_exclude_patterns": ["*.jsz", "*.js.mapz"],
+}
+]
+}
